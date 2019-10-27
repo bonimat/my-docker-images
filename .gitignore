@@ -4,4 +4,4 @@
 **/*.tar.gz
 .idea/
 .DS_Store
-.OracleDatabase/SingleInstance/oradata/
+OracleDatabase/SingleInstance/oradata/
